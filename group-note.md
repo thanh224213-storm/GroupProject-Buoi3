@@ -1,4 +1,0 @@
-# Ghi chú nhóm
-
-thành
-
