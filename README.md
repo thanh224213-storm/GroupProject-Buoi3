@@ -1,2 +1,2 @@
 # GroupProject-Buoi3
-Project for teamwork practice
+hom nay la chu nhat
