@@ -1,2 +1,2 @@
 # GroupProject-Buoi3
-Project for teamwork practice
+This is the group project.
