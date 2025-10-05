@@ -1,2 +1,3 @@
 # GroupProject-Buoi3
-cua do 
+hom nay la chu nhat
+7f7eab0 (Update README.md)
