@@ -1,2 +1,1 @@
-# GroupProject-Buoi3
-This is the group project.
+Project Git Collaboration by Team
